@@ -1,5 +1,5 @@
 # johnny
-# python
+# pirâmide de caracteres em python
 x = int (input('digite um numero\n'))
 print(x)
 for linha in range(0,x):   
